@@ -1,0 +1,23 @@
+html,body{
+	height:100%;
+}
+body{
+	background:linear-gradient(darkblue, white);
+	font-family: arial;
+}
+h1{
+	color:#ABABAB;
+	text-align:center;
+
+}
+.caja{
+	margin:0 auto;
+	text-align:center;
+	width:40%;
+}
+
+.caja img{
+	display:block;
+	margin:0 auto;
+	width:60%;
+}
